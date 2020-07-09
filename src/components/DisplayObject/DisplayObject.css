@@ -1,0 +1,8 @@
+.Display-object-wrapper {
+    width: 50vw;
+    min-width: max-content;
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    margin: 1rem 0;
+}
